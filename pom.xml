@@ -8,6 +8,11 @@
   <name>consumerBanking</name>
   <url>http://maven.apache.org</url>
 
+<properties>
+<maven-compiler-source>6</maven-compiler-source>
+<maven-compiler-target>1.6</maven-compiler-target>
+</properties>
+
   <build>
    <plugins>
      <plugin>
