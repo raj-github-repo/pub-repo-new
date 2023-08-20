@@ -4,7 +4,7 @@ class hello() #from dev2
 	public static void main() #from dev2
 
 	{
-		system.out.println("hello modf ");
+		system.out.println(" new modfication");
 	}
 
 } #from dev2
